@@ -1,2 +1,1 @@
-# ob-havo-weather-bot
-@ob_havo_bot_uzb_bot
+Vedio ni muzikasini qirqib beradigan bot yasalgan bu yerda 
